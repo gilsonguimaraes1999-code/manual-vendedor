@@ -1,0 +1,23 @@
+{
+  "name": "Manual do Vendedor",
+  "short_name": "Manual do Vendedor",
+  "description": "Manual comercial e guia de operação para vendedores SantaGroup.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/nG0TpKJ/icon-192-v2.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/9HFcf5bJ/calculadora-comercial-icon-v2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
